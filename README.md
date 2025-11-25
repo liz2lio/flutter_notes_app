@@ -1,6 +1,7 @@
 # flutter_notes_app
 
-A new Flutter project.
+This app is a practice to working with Firebase.
+Code used is only a template for note taking app.
 
 ## Getting Started
 
