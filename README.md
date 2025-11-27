@@ -1,7 +1,7 @@
 # flutter_notes_app
 
-This app is a practice to working with Firebase.
-Code used is only a template for note taking app.
+This app was created to practice working with Firebase.
+The code is not mine and is a template copied from Device Agnostic course.
 
 ## Getting Started
 
